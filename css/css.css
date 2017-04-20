@@ -1,0 +1,27 @@
+
+.menu
+{
+
+	background-repeat: repeat-x;
+	height: 75px;
+	width: 718px;
+	position: relative;
+	margin: 0px auto;
+	text-align: center;
+}
+.menu ul li a, .menu ul li a:visited
+{
+	display: block;
+	text-decoration: none;
+	width: 115px;
+	height: 40px;
+	text-align: center;
+	color: #000;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: 宋体;
+	line-height: 25px;
+}
+.menu ul {padding:0; margin:0;list-style-type: none; }
+.menu ul li {float:left; position:relative;text-align:center; }
+

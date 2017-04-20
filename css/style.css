@@ -1,0 +1,242 @@
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-image: url(images/bg.gif);
+    background-repeat: repeat-y;
+    background-position: center top;
+    scrollbar-face-color: #ffffff;
+    scrollbar-highlight-color: #D9D6D6;
+    scrollbar-shadow-color: #D9D6D6;
+    scrollbar-3dlight-color: #ffffff;
+    scrollbar-arrow-color: #D5D5D5;
+    scrollbar-track-color: #ffffff;
+    scrollbar-darkshadow-color: #ffffff;
+    background-color: #F2F2F2;
+}
+
+a {
+    color: #666666;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "����";
+}
+
+a:link {
+    color: #666666;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: "����";
+}
+
+a:hover {
+    color: #ff9933;
+}
+
+.font {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.www {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bold;
+    color: #1C5679;
+    text-decoration: underline;
+}
+
+.font-hui-b {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bolder;
+    color: #5E5E5E;
+}
+
+.font-en {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    color: #606060;
+}
+
+.font-page {
+    font-size: 12px;
+    line-height: 18px;
+    color: #15689A;
+}
+
+.title {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: bold;
+}
+
+img {
+    border-style: none;
+}
+
+.img1 {
+    border: 1px solid #D8D9DA;
+}
+
+.input {
+    font-size: 12px;
+    border: 1px solid #cccccc;
+    BORDER-LEFT: #cccccc 1px solid;
+    BORDER-TOP: #cccccc 1px solid;
+    BORDER-BOTTOM: #cccccc 1px solid;
+}
+
+select {
+    font-size: 12px;
+    border-width: 1px
+}
+
+.font-news {
+    font-size: 12px;
+    color: #000000;
+    line-height: 18px;
+}
+
+.font-news-title {
+    font-size: 12px;
+    line-height: 18px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.font-news-page {
+    font-size: 12px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.font-pro {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.font-pro-title {
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.font-pro-page {
+    font-size: 12px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.jh {
+    border: 1px solid #dedddd;
+}
+
+.foot {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    color: #666666;
+    text-decoration: none;
+}
+
+.jhh {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    color: #666666;
+    text-decoration: none;
+    background-image: url(images/dt.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-left: 8px;
+    padding-left: 8px;
+}
+
+.fd {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 22px;
+    color: #666666;
+    text-decoration: none;
+    margin-left: 18px;
+    padding-left: 18px;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-right: 4px;
+    padding-right: 5px;
+}
+
+.lx {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 25px;
+    color: #666666;
+    text-decoration: none;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.lxsf {
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 25px;
+    color: #333333;
+    text-decoration: none;
+    width: 676px;
+}
+
+.klds {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 25px;
+    color: #666666;
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: #666666;
+}
+
+.dz {
+    font-family: "微软雅黑";
+    font-size: 14px;
+    font-weight: bold;
+    color: #333333;
+    text-decoration: none;
+}
+
+.lsj {
+    font-family: "微软雅黑";
+    font-size: 14px;
+    color: #333333;
+    text-decoration: none;
+    border-left-width: 1px;
+    border-left-style: dashed;
+    border-left-color: #999999;
+    margin-left: 20px;
+    padding-left: 20px;
+    line-height: 25px;
+}
+
+.GridTR {
+    COLOR: #000000;
+    HEIGHT: 23px;
+    BACKGROUND-COLOR: #e2e5d7;
+    text-align: center;
+}
+
+.GridList {
+    color: #000000;
+    background-color: #FFFFFF;
+    height: 20px;
+    text-align: center;
+    font-size: 12pt;
+}
